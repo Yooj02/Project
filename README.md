@@ -5,5 +5,6 @@
   </head>
   <body>
     <h1>Hamilton's digital fabrication project</h1>
+    <p> Learning code </p>
   </body>
 </html>
